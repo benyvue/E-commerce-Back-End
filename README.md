@@ -30,7 +30,7 @@
    N/A
 
   ## Link to video of application in action
-  Click [here](https://github.com/benyvue/E-commerce-Back-End) for a video of the applicaion in action. 
+  Click [here](https://watch.screencastify.com/v/cd6yNWASaYYhhqB5mQk5) for a video of the applicaion in action. 
 
   ### GitHub Profile
   [benyvue](http://github.com/benyvue)
